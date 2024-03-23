@@ -1,0 +1,11 @@
+---
+title: "This is a test post"
+author: "Greg Alward"
+date: "2024-03-23"
+categories: [test, new]
+image: https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg
+---
+
+![](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg)
+
+Here's a photo of a cute cat.

@@ -26,6 +26,7 @@ Here is a Python code cell:
 ```{python}
 import os
 os.cpu_count()
+print(2**64)
 ```
 
 ## Equation
