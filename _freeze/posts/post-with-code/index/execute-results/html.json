@@ -1,0 +1,12 @@
+{
+  "hash": "7a44febadcde698272f6c1b3cee76c73",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2024-03-23\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\n\n## Markdown\n\nMarkdown is an easy to read and write text format:\n\n- It's _plain text_ so works well with version control\n- It can be **rendered** into HTML, PDF, and more\n- Learn more at: <https://quarto.org/docs/authoring/>\n\n## Code Cell\n\nHere is a Python code cell:\n\n::: {#5461e5aa .cell execution_count=1}\n``` {.python .cell-code}\nimport os\nos.cpu_count()\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n4\n```\n:::\n:::\n\n\n## Equation\n\nUse LaTeX to write equations:\n\n$$\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n$$\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
